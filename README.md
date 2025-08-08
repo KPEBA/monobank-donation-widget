@@ -10,6 +10,6 @@ monobank_tracker.py — Python-скрипт, який:
 Назву Jar (банки) у donation_bank.txt
 
 Запускає локальний вебсервер на порті 3000 і віддає статичні файли (*.html, *.png, *.txt)
-index.html, .png (графіка), **donation_.txt** — віджет для OBS/браузера.
+index.html, .png (графіка), donation_amount.txt, donation_bank.txt — віджет для OBS/браузера.
 
 dist/monobank_tracker.exe — зібраний файл для Windows.
